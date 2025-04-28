@@ -1,6 +1,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity >=0.8.28;
 
+// Use this script to deploy your own price oracles
+
 import "forge-std/src/Script.sol";
 import "../src/ChainlinkPriceFeed.sol";
 
